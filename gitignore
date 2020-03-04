@@ -1,5 +1,4 @@
 # See https://help.github.com/ignore-files/ for more about ignoring files.
 
 # dependencies
-/PayPal_BackEnd/node_modules
-/PayPal_FrontEnd/node_modules
+**/node_modules
