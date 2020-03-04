@@ -9,6 +9,6 @@ In the project we can find the following:
 
 The communication between the two apps is entirely made by HTTP, using local calls.
 
-A hosted version can be found on https://paypal-fabioneto.pagekite.me/.
+Also, it uses the Checkout Advanced Integration combined with SPBs.
 
 
